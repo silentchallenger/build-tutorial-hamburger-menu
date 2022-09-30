@@ -43,6 +43,11 @@ body {
   background-color: aqua;
 }
 
+.menu a:hover {
+  background-color: black;
+  color: blue;
+}
+
 li {
   line-height: 2em;
   padding-left: 1em;
